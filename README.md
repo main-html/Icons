@@ -20,7 +20,7 @@ This functionality is platform agnostic, accessibility aware and has no need for
 ## Getting started
 Several quick start options are available:
 
-- Clone the repo: `git clone https://github.com/AndyFutcher/main.icons`
+- Clone the repo: `git clone https://github.com/andyfutcher/main.icons`
 
 
 ## Change log
