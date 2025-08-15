@@ -24,8 +24,8 @@ Several quick start options are available:
 
 
 ## Change log
-Version 0.6-beta - Consent Release 
- - Consent and trust management system
+Version 0.7-beta - Initial Release 
+
 
 ### About the developer
 
