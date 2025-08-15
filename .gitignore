@@ -1,0 +1,13 @@
+# Archives #
+*.7z
+*.gz
+*.tar
+*.tgz
+*.zip
+
+# Hidden files #
+.*
+
+# OS generated files #
+.Trashes
+thumbs.db
